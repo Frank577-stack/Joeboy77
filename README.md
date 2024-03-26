@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Acheampong
 - 👀 I’m a Junior Software Developer
-- 🌱 I’m currently learning Computer Science in the University og Ghana
+- 🌱 I’m currently learning Computer Science in the University of Ghana
 - 💞️ I’m looking to collaborate on projects related to web development, mobile development and systems building
 - 📫 You can contact me @acheampongjoseph470@gmail.com
 - 😄 Pronouns: He
